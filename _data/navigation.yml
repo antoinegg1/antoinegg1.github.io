@@ -20,5 +20,8 @@ main:
     
   - title: "Research Statement"
     url: /research_statement/
+
+  - title: "others"
+    url: /others/
   # - title: "Guide"
   #   url: /markdown/
