@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a sophomore undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/).
+I am a junior undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/).
 
 I am fortunate to be advised by Professor [Yaodong Yang](https://www.yangyaodong.com/) at the Institute for AI, Peking University.
 
@@ -31,6 +31,13 @@ Experiences
   Research Intern (advisor: Prof. [Yaodong Yang](https://www.yangyaodong.com/) at [Institute for AI](https://www.yangyaodong.com/), [Peking University](https://english.pku.edu.cn/))
   July. 2023 – Present
 
+
+Publications
+======
+- (NeurIPS 2024, SoLab) [Language Models Resist Alignment](https://arxiv.org/abs/2406.06144), 
+  Jiaming Ji*, Kaile Wang*, Tianyi Qiu*, Boyuan Chen*, Jiayi Zhou, **Changye Li**, Hantao Lou, and Yaodong Yang
+- (Under Review) Towards efficient collaboration via graph modeling in reinforcement learning
+  Wenzhe Fan, Zishun Yu, Chengdong Ma, **Changye Li**, Yaodong Yang, Xinhua Zhang
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
